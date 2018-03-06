@@ -1,0 +1,7 @@
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\bin\Debug\1SA_2SE_Stojanov_Robert.exe
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\bin\Debug\1SA_2SE_Stojanov_Robert.pdb
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\obj\x86\Debug\_1SA_2SE_Stojanov_Robert.Form1.resources
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\obj\x86\Debug\_1SA_2SE_Stojanov_Robert.Properties.Resources.resources
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\obj\x86\Debug\1SA_2SE_Stojanov_Robert.csproj.GenerateResource.Cache
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\obj\x86\Debug\1SA_2SE_Stojanov_Robert.exe
+H:\Desktop\1SA_2SE_Stojanov_Robert\1SA_2SE_Stojanov_Robert\obj\x86\Debug\1SA_2SE_Stojanov_Robert.pdb

@@ -52,6 +52,7 @@
             this.txtb_PS = new System.Windows.Forms.TextBox();
             this.txtb_Marke = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
             // label11
@@ -105,6 +106,7 @@
             this.btn_tanken.TabIndex = 44;
             this.btn_tanken.Text = "Tanken";
             this.btn_tanken.UseVisualStyleBackColor = true;
+            this.btn_tanken.Click += new System.EventHandler(this.btn_tanken_Click);
             // 
             // label8
             // 
@@ -163,6 +165,7 @@
             this.btn_autoerstellen.TabIndex = 36;
             this.btn_autoerstellen.Text = "Auto erstellen";
             this.btn_autoerstellen.UseVisualStyleBackColor = true;
+            this.btn_autoerstellen.Click += new System.EventHandler(this.btn_autoerstellen_Click);
             // 
             // label5
             // 
@@ -258,6 +261,13 @@
             this.panel1.Size = new System.Drawing.Size(450, 179);
             this.panel1.TabIndex = 37;
             // 
+            // panel2
+            // 
+            this.panel2.Location = new System.Drawing.Point(5, 293);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(267, 169);
+            this.panel2.TabIndex = 50;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -287,8 +297,10 @@
             this.Controls.Add(this.txtb_PS);
             this.Controls.Add(this.txtb_Marke);
             this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panel2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -320,6 +332,7 @@
         private System.Windows.Forms.TextBox txtb_PS;
         private System.Windows.Forms.TextBox txtb_Marke;
         private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel panel2;
     }
 }
 
